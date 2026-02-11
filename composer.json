@@ -1,5 +1,5 @@
 {
-    "name": "onlinq/form-collection-bundle",
+    "name": "antona/form-collection-bundle",
     "description": "Symfony bundle to build forms with Onlinq Form Collection web components",
     "keywords": ["form-collection"],
     "type": "symfony-bundle",
