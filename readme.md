@@ -13,7 +13,7 @@ Onlinq Form Collection Bundle requires PHP 7.2+ and Symfony 4.4+.
 Install this bundle using Composer and Symfony Flex:
 
 ```bash
-composer require onlinq/form-collection-bundle
+composer require antona/form-collection-bundle
 ```
 
 The easiest way to enable the Onlinq Form Collection web components in forms is
